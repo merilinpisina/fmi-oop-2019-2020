@@ -1,4 +1,4 @@
-#Types of Member Functions in C++:  Simple, Static, Const, Inline and Friend Member Functions
+# Types of Member Functions in C++:  Simple, Static, Const, Inline and Friend Member Functions
 
 C++ is very rich in member functions as compared to some other languages offering object oriented programming.  Other computer languages offer one or two types of member functions while C++ offers the following types of member functions:
 
