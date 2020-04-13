@@ -1,0 +1,4 @@
+3
+apple 4 6.3
+pear 5 2.3
+banana 7 2.0
