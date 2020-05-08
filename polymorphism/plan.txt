@@ -1,0 +1,28 @@
+1. Classes (needed for implementation)
+ - Figure
+ - Circle
+ - Rectangle
+ - Triangle
+ - Group
+ - FigureContainer
+
+2. Functions for each class (without polymorphic functions)
+ - print
+ - isInside
+ - readFromFile
+ - translate
+ - ...
+
+3. Inheritance and connections between classes.
+ - Figure <- Circle
+ - Figure <- Triangle
+ - Figure <- Rectangle
+ - FigureContainer [FigurePtr]
+ - Group [FigureContainerPtr]
+
+4. Main function implementstion details.
+ - Initialization (read form file, load information)
+ - Get commands (either main argc, argv[]; or do{}while())
+ - Exit safely
+
+ credits for code: https://github.com/IvanFilipov
